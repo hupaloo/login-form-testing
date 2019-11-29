@@ -11,9 +11,7 @@ loginForm_03_spec.js - check that user can register with entering valid data (al
 conf.js - configuration file
 <br>
 P.S.: Feel free to clone the project and check how it works:
-<br>
 1) Clone the project
-<br>
 2) Install dependencies (run command npm install)
 <br>
 3) Run command npm test to run all 3 tests
