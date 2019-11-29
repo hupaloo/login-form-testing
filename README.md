@@ -1,5 +1,6 @@
 Project description: testing Githab registration form with JS/Protractor in Chrome Browser (with directConnect: true)
 <br>
+<br>
 Files description:
 <br>
 loginForm_01_spec.js - check that registration form elements are preset on the https://github.com/ page
