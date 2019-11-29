@@ -14,4 +14,5 @@ Feel free to clone the project and check how it works:
 1) Clone the project
 2) Install dependencies (run command npm install)
 3) Run command npm test to run all 3 tests
-3b) Run command node node_modules/protractor/built/cli.js ./jasmine/conf.js --specs jasmine/specs/loginForm_0*_spec.js to run specified test
+<br>
+3b. Run command node node_modules/protractor/built/cli.js ./jasmine/conf.js --specs jasmine/specs/loginForm_0*_spec.js to run specified test
