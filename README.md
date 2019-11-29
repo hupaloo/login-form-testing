@@ -12,8 +12,7 @@ conf.js - configuration file
 <br><br>
 Feel free to clone the project and check how it works:
 <br>
-1) Clone the project
-<br>
+
 2) Install dependencies (run command npm install)
 <br>
 3) Run command npm test to run all 3 tests
